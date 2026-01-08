@@ -2,3 +2,6 @@ I have decided to use a monolithic architecture because I believe it will be sim
 and due to its simplicity it creates an easier to debug system as there are less points of error for the system to go wrong in.
 By comparison a distributed architecture would utilise multiple api and feature a lot more modularity since that system is designed
 to work with a team of coders tasked with smaller tasks, since I am working alone in this I find it the best course of action to go with monolithic architecture
+
+This will be employed in my proof of concept as well since by doing this I can focus on the function of the architecture as opposed to dedicating time
+working on api clients and such.
